@@ -19,7 +19,7 @@ const errorMiddleware = require("./middleware/error-handler");
 app.use(cors());
 app.use(express.json());
 
-app.get("/health", (_, res) => {
+app.get("/health", (req, res) => {
   res.status(200).json({
     serverTime: new Date(),
     serverName: "ElectraCart",
