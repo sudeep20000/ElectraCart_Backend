@@ -1,0 +1,412 @@
+[
+  {
+    "brand": "JBL",
+    "model": "Tune 760NC",
+    "productName": "JBL Tune 760NC",
+    "type": "over-ear",
+    "color": "Blue",
+    "price": 9999,
+    "available": true,
+    "reviews": 2500,
+    "rating": 4.5,
+    "images": [
+      "https://www.harmanaudio.in/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw764975a3/2.JBL_TUNE_760NC_Product%20Image_Front_Blue.png",
+      "https://www.harmanaudio.in/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw5f5195fc/1.JBL_TUNE_760NC_Product%20Image_Hero_Blue.png",
+      "https://www.harmanaudio.in/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw632d9478/3.JBL_TUNE_760NC_Product%20Image_Button%20Detail_Blue.png",
+      "https://www.harmanaudio.in/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw40f82d29/JBL_TUNE_760NC_Product%20Image_Folded%202_Blue.png"
+    ],
+    "features": [
+      "Active Noise Cancelling",
+      "Ambient Aware and TalkThru modes",
+      "40mm drivers"
+    ],
+    "about": "Experience superior sound and active noise cancellation with the JBL Tune 760NC over-ear headphones."
+  },
+  {
+    "brand": "JBL",
+    "model": "Live Pro+",
+    "productName": "JBL Live Pro+",
+    "type": "in-ear",
+    "color": "Black",
+    "price": 4999,
+    "available": true,
+    "reviews": 1800,
+    "rating": 4,
+    "images": [
+      "https://in.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwb518136c/JBL_LIVE_PRO+_TWS_Product%20Image_Case%20Open%202_Black.png",
+      "https://in.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwbb9dcd1d/JBL_LIVE_PRO+_TWS_Product%20image_Front_BLACK.png",
+      "https://in.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw1332352c/JBL_LIVE_PRO+_TWS_Product%20image_Case%20Open_BLACK.png",
+      "https://in.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw2596a69e/JBL_LIVE_PRO+_TWS_Product%20image_Hero_BLACK.png"
+    ],
+    "features": [
+      "Adaptive Noise Cancelling",
+      "Ambient Aware mode",
+      "Wireless charging"
+    ],
+    "about": "Enjoy truly wireless audio with the JBL Live Pro+ in-ear headphones, featuring adaptive noise cancellation and wireless charging."
+  },
+  {
+    "brand": "JBL",
+    "model": "Quantum 800",
+    "productName": "JBL Quantum 800",
+    "type": "over-ear",
+    "color": "Blue",
+    "price": 11999,
+    "available": true,
+    "reviews": 3200,
+    "rating": 5,
+    "images": [
+      "https://www.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwc02916a1/JBL_Quantum%20800_Product%20Image_ANGLE_White.png",
+      "https://www.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw53150a7c/JBL_QUANTUM%20800_Product%20Image_Detail.png",
+      "https://www.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw388c2095/JBL_Quantum%20800_Product%20Image_Left.png",
+      "https://www.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw14bf91e0/JBL_QUANTUM%20800_810_Product%20Image_Cushions.png"
+    ],
+    "features": [
+      "JBL QuantumSURROUND",
+      "Active Noise Cancelling",
+      "Detachable boom microphone"
+    ],
+    "about": "Immerse yourself in gaming with the JBL Quantum 800 over-ear headphones, featuring QuantumSURROUND and active noise cancellation."
+  },
+  {
+    "brand": "Sony",
+    "model": "WH-1000XM4",
+    "productName": "Sony WH-1000XM4",
+    "type": "over-ear",
+    "color": "Black",
+    "price": 26990,
+    "available": true,
+    "reviews": 8000,
+    "rating": 3.5,
+    "images": [
+      "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1669124939/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/262565_0_gsz0tr.png",
+      "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1669124941/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/262565_1_fm7grs.png",
+      "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1669124937/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/262565_4_argn27.png",
+      "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1669124936/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/262565_5_yp0fcr.png"
+    ],
+    "features": [
+      "Industry-leading noise cancellation",
+      "Gesture control and touch sensor",
+      "Up to 30 hours battery life"
+    ],
+    "about": "Experience the ultimate in noise cancellation and audio quality with the Sony WH-1000XM4 over-ear headphones."
+  },
+  {
+    "brand": "Sony",
+    "model": "WF-1000XM3",
+    "productName": "Sony WF-1000XM3",
+    "type": "in-ear",
+    "color": "Black",
+    "price": 17990,
+    "available": true,
+    "reviews": 5600,
+    "rating": 3.5,
+    "images": [
+      "https://5.imimg.com/data5/SELLER/Default/2022/11/TW/QQ/OP/107323815/sony-wi-c400-wireless-bluetooth-in-ear-neckband-headphone-with-mic-black--250x250.jpg",
+      "https://5.imimg.com/data5/SELLER/Default/2022/11/IK/MU/FU/107323815/sony-wi-c400-wireless-bluetooth-in-ear-neckband-headphone-with-mic-black--250x250.jpg",
+      "https://5.imimg.com/data5/SELLER/Default/2022/11/QP/TE/OA/107323815/sony-wi-c400-wireless-bluetooth-in-ear-neckband-headphone-with-mic-black--250x250.jpg",
+      "https://5.imimg.com/data5/SELLER/Default/2022/11/HL/BD/GX/107323815/sony-wi-c400-wireless-bluetooth-in-ear-neckband-headphone-with-mic-black--500x500.jpg"
+    ],
+    "features": [
+      "Industry-leading noise cancellation",
+      "Up to 24 hours battery life",
+      "Touch control"
+    ],
+    "about": "Experience true wireless freedom with the Sony WF-1000XM3 in-ear headphones, featuring industry-leading noise cancellation."
+  },
+  {
+    "brand": "Sony",
+    "model": "WH-CH710N",
+    "productName": "Sony WH-CH710N",
+    "type": "over-ear",
+    "color": "Blue",
+    "price": 9990,
+    "available": true,
+    "reviews": 3200,
+    "rating": 4.5,
+    "images": [
+      "https://m.media-amazon.com/images/I/31cysGQgN1L._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/31oAniReIAL._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/31llRvPC1bL._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/21qn+Ae91jL._SY450_.jpg"
+    ],
+    "features": [
+      "Noise cancelling",
+      "Up to 35 hours battery life",
+      "Wireless Bluetooth connectivity"
+    ],
+    "about": "Enjoy clear audio and noise cancellation with the affordable Sony WH-CH710N over-ear headphones, designed for all-day listening."
+  },
+  {
+    "brand": "Boat",
+    "model": "Rockerz 550",
+    "productName": "Boat Rockerz 550",
+    "type": "over-ear",
+    "color": "Black",
+    "price": 1999,
+    "available": true,
+    "reviews": 12000,
+    "rating": 3.5,
+    "images": [
+      "https://vlebazaar.in/image/cache/catalog/B0856HY85J/boAt-Rockerz-550-Over-Ear-Wireless-Headphone-with-Ergonomic-Aesthetics-Plush-Padded-Earcups-Immersive-Audio-Bluetooth-v50-Upto-20H-Playback-Black-B0856HY85J-550x550.jpg",
+      "https://vlebazaar.in/image/cache/catalog/713vSnqDamL._SL1500_-550x550.jpg",
+      "https://vlebazaar.in/image/cache/catalog/612c54zFjpL._SL1500_-550x550.jpg",
+      "https://vlebazaar.in/image/cache/catalog/614IQrAtd+L._SL1500_-550x550.jpg"
+    ],
+    "features": [
+      "Punchy bass",
+      "Foldable design",
+      "Up to 20 hours battery life"
+    ],
+    "about": "Experience immersive audio and deep bass with the Boat Rockerz 550 over-ear headphones, designed for music enthusiasts."
+  },
+  {
+    "brand": "Boat",
+    "model": "Airdopes 131",
+    "productName": "Boat Airdopes 131",
+    "type": "in-ear",
+    "color": "Blue",
+    "price": 1299,
+    "available": true,
+    "reviews": 8500,
+    "rating": 3.5,
+    "images": [
+      "https://www.boat-lifestyle.com/cdn/shop/products/616b4ead-bbd9-4a16-aeab-8d331a16f697_600x.png",
+      "https://www.boat-lifestyle.com/cdn/shop/files/131-3_600x.jpg",
+      "https://www.boat-lifestyle.com/cdn/shop/products/ad131FIAD131TypeCcopy_700x.jpg",
+      "https://www.boat-lifestyle.com/cdn/shop/products/FeatureImagesAD131BV5.0copy_700x.jpg"
+    ],
+    "features": [
+      "Truly wireless",
+      "IWP technology",
+      "Up to 25 hours total battery life"
+    ],
+    "about": "Enjoy true wireless freedom with the Boat Airdopes 131 in-ear headphones, featuring IWP technology for seamless connectivity."
+  },
+  {
+    "brand": "Boat",
+    "model": "Nirvana 751 ANC",
+    "productName": "Boat Nirvana 751 ANC",
+    "type": "over-ear",
+    "color": "Black",
+    "price": 5499,
+    "available": true,
+    "reviews": 4200,
+    "rating": 5,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main3_b6563f96-f1a1-4915-b686-d4e37232ec3c_600x.png",
+      "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/61u81pV72AL._SY450_450x.jpg",
+      "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/71w3s2UJNlL._SY450_450x.jpg",
+      "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/71sI3x7ZkyL._SY450_450x.jpg"
+    ],
+    "features": [
+      "Active Noise Cancellation",
+      "Up to 60 hours battery life",
+      "Fast charging support"
+    ],
+    "about": "Experience clear audio and effective noise cancellation with the Boat Nirvana 751 ANC over-ear headphones, designed for extended listening sessions."
+  },
+  {
+    "brand": "Zebronics",
+    "model": "Zeb-Yoga Pro",
+    "productName": "Zebronics Zeb-Yoga Pro",
+    "type": "in-ear",
+    "color": "Black",
+    "price": 699,
+    "available": true,
+    "reviews": 3800,
+    "rating": 4,
+    "images": [
+      "https://m.media-amazon.com/images/I/61NwRhuMJnL._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/71LGBpqqV6L._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/71J7szJLzuL._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/71ZdpwL48kL._SY450_.jpg"
+    ],
+    "features": [
+      "Sweatproof design",
+      "Secure fit for workouts",
+      "Up to 10 hours battery life"
+    ],
+    "about": "Stay motivated during your workouts with the Zebronics Zeb-Yoga Pro in-ear headphones, designed for an active lifestyle."
+  },
+  {
+    "brand": "Zebronics",
+    "model": "Zeb-Thunder",
+    "productName": "Zebronics Zeb-Thunder",
+    "type": "over-ear",
+    "color": "Black",
+    "price": 1299,
+    "available": true,
+    "reviews": 2100,
+    "rating": 5,
+    "images": [
+      "https://zebronics.com/cdn/shop/products/Zeb-envy-pic1.jpg",
+      "https://zebronics.com/cdn/shop/products/Zeb-envy-pic3.jpg",
+      "https://zebronics.com/cdn/shop/products/Zeb-envy-pic5.jpg",
+      "https://zebronics.com/cdn/shop/products/Zeb-envy-pic2.jpg"
+    ],
+    "features": [
+      "Powerful bass",
+      "Foldable design",
+      "Up to 15 hours battery life"
+    ],
+    "about": "Experience thunderous bass and immersive audio with the Zebronics Zeb-Thunder over-ear headphones, designed for music enthusiasts."
+  },
+  {
+    "brand": "Zebronics",
+    "model": "Zeb-Allure",
+    "productName": "Zebronics Zeb-Allure",
+    "type": "on-ear",
+    "color": "White",
+    "price": 899,
+    "available": true,
+    "reviews": 1500,
+    "rating": 3.5,
+    "images": [
+      "https://m.media-amazon.com/images/I/31e5tJJfddL._SX300_SY300_QL70_FMwebp_.jpg",
+      "https://m.media-amazon.com/images/I/61ReX+tP+nL._SX569_.jpg",
+      "https://m.media-amazon.com/images/I/716YHE4igbL._SX569_.jpg",
+      "https://m.media-amazon.com/images/I/71U8SGDpyOL._SX569_.jpg"
+    ],
+    "features": [
+      "Lightweight design",
+      "Foldable and portable",
+      "Up to 12 hours battery life"
+    ],
+    "about": "Enjoy stylish and portable audio with the Zebronics Zeb-Allure on-ear headphones, designed for everyday use."
+  },
+  {
+    "brand": "Marshall",
+    "model": "Monitor II A.N.C.",
+    "productName": "Marshall Monitor II A.N.C.",
+    "type": "over-ear",
+    "color": "Black",
+    "price": 27999,
+    "available": true,
+    "reviews": 1800,
+    "rating": 4,
+    "images": [
+      "https://elcytec.com/wp-content/uploads/2022/08/elcytec_marshall_monitor_2_anc-9-600x600.webp",
+      "https://elcytec.com/wp-content/uploads/2022/08/elcytec_marshall_monitor_2_anc-1.webp",
+      "https://elcytec.com/wp-content/uploads/2022/08/elcytec_marshall_monitor_2_anc-7-600x600.webp",
+      "https://elcytec.com/wp-content/uploads/2022/08/elcytec_marshall_monitor_2_anc-8-600x600.webp"
+    ],
+    "features": [
+      "Active Noise Cancellation",
+      "Custom-tuned drivers",
+      "Up to 30 hours battery life"
+    ],
+    "about": "Experience the legendary Marshall sound with the Monitor II A.N.C. over-ear headphones, featuring active noise cancellation and custom-tuned drivers."
+  },
+  {
+    "brand": "Marshall",
+    "model": "Mode II",
+    "productName": "Marshall Mode II",
+    "type": "in-ear",
+    "color": "Black",
+    "price": 9999,
+    "available": true,
+    "reviews": 2500,
+    "rating": 3.5,
+    "images": [
+      "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1697113878/Croma%20Assets/Entertainment/Wireless%20Earbuds/Images/302220_3_x4bqgc.png",
+      "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1697113879/Croma%20Assets/Entertainment/Wireless%20Earbuds/Images/302220_cqdcns.png",
+      "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1697113883/Croma%20Assets/Entertainment/Wireless%20Earbuds/Images/302220_4_r73mgu.png",
+      "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1697113887/Croma%20Assets/Entertainment/Wireless%20Earbuds/Images/302220_5_cfozip.png"
+    ],
+    "features": [
+      "Customizable sound profiles",
+      "Wireless charging case",
+      "Up to 25 hours total battery life"
+    ],
+    "about": "Enjoy true wireless freedom with the Marshall Mode II in-ear headphones, featuring customizable sound profiles and a wireless charging case."
+  },
+  {
+    "brand": "Marshall",
+    "model": "Major IV",
+    "productName": "Marshall Major IV",
+    "type": "over-ear",
+    "color": "Brown",
+    "price": 16999,
+    "available": true,
+    "reviews": 3200,
+    "rating": 5,
+    "images": [
+      "https://m.media-amazon.com/images/I/61x4yN6eUVL._SX450_.jpg",
+      "https://m.media-amazon.com/images/I/61ag5oPn-rL._SX450_.jpg",
+      "https://m.media-amazon.com/images/I/512Ls0shnDL._SX450_.jpg",
+      "https://m.media-amazon.com/images/I/61dvGHScU1L._SX450_.jpg"
+    ],
+    "features": [
+      "Classic Marshall design",
+      "Detachable double-ended coil cord",
+      "40mm custom-tuned drivers"
+    ],
+    "about": "Experience the iconic Marshall sound and style with the Major IV over-ear headphones, featuring a classic design and custom-tuned drivers."
+  },
+  {
+    "brand": "PTron",
+    "model": "Bassbuds Pro",
+    "productName": "PTron Bassbuds Pro",
+    "type": "in-ear",
+    "color": "Black",
+    "price": 899,
+    "available": true,
+    "reviews": 5600,
+    "rating": 4.5,
+    "images": [
+      "https://m.media-amazon.com/images/I/51nNCWUig2L._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/71kcisGCGdL._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/71DlQnL0AoL._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/61WDEx3wWGL._SY450_.jpg"
+    ],
+    "features": ["Deep bass", "Wireless design", "Up to 12 hours battery life"],
+    "about": "Feel the bass with the PTron Bassbuds Pro in-ear headphones, designed for an immersive audio experience."
+  },
+  {
+    "brand": "PTron",
+    "model": "Tangent Plus",
+    "productName": "PTron Tangent Plus",
+    "type": "over-ear",
+    "color": "Blue",
+    "price": 1499,
+    "available": true,
+    "reviews": 2800,
+    "rating": 3.5,
+    "images": [
+      "https://ptron.in/cdn/shop/products/515evSnWnaS._SL1100.jpg",
+      "https://ptron.in/cdn/shop/products/61_q9k5vueS._SL1100.jpg",
+      "https://ptron.in/cdn/shop/products/61HhOBQYuTS._SL1100_637x.jpg",
+      "https://ptron.in/cdn/shop/products/61XYCX5b9iS._SL1100_637x.jpg"
+    ],
+    "features": [
+      "Foldable design",
+      "Up to 20 hours battery life",
+      "Bluetooth 5.0 connectivity"
+    ],
+    "about": "Experience wireless freedom and portability with the PTron Tangent Plus over-ear headphones, featuring a foldable design and long battery life."
+  },
+  {
+    "brand": "PTron",
+    "model": "Zara",
+    "productName": "PTron Zara",
+    "type": "on-ear",
+    "color": "White",
+    "price": 999,
+    "available": true,
+    "reviews": 1700,
+    "rating": 4,
+    "images": [
+      "https://m.media-amazon.com/images/I/51uZPW0T6-L._SX569_.jpg",
+      "https://m.media-amazon.com/images/I/51mMSRhmP3L._SX569_.jpg",
+      "https://m.media-amazon.com/images/I/51gqeXy0wJL._SX569_.jpg",
+      "https://m.media-amazon.com/images/I/51gKXBno8vL._SX569_.jpg"
+    ],
+    "features": [
+      "Lightweight and stylish",
+      "Up to 15 hours battery life",
+      "Built-in microphone"
+    ],
+    "about": "Stay stylish and connected with the PTron Zara on-ear headphones, featuring a lightweight design and built-in microphone."
+  }
+]
