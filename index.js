@@ -21,8 +21,8 @@ app.use(express.json());
 
 app.get("/health", (req, res) => {
   res.status(200).json({
-    serverTime: new Date(),
-    serverName: "ElectraCart",
+    projectName: "ElectraCart",
+    msg: "server is running...",
   });
 });
 app.use("/auth", authRoutes);
